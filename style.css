@@ -1,0 +1,12 @@
+#topright{
+    font-family:Arial, Helvetica, sans-serif;
+    x: 10px;
+    y: 10px;
+}
+button{
+    x: 100px;
+    y: 500px;
+    border-radius: 10px;
+    border-style: solid;
+    
+}
